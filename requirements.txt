@@ -1,2 +1,8 @@
 Django==1.9.11
-pytz==2016.7
+django-disqus==0.5
+django-tagging==0.4.5
+mock==2.0.0
+pbr==1.10.0
+Pillow==3.4.2
+pytz==2016.10
+six==1.10.0
