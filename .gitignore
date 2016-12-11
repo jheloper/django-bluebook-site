@@ -147,3 +147,6 @@ db/*
 
 # apache static directory
 www_static
+
+# media directory
+media
