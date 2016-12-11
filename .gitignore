@@ -139,8 +139,11 @@ myvenv/
 # Rope project settings
 .ropeproject
 
-# sqlite
-db.sqlite3
+# Database Directory
+db/*
 
 # migrations directory
 */migrations
+
+# apache static directory
+www_static
